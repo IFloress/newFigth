@@ -1,2 +1,2 @@
-# newFigth
-New project figth for course b7web --- funcional
+# Figth
+Project for the course B7WEB
